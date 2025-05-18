@@ -32,4 +32,18 @@ This hands-on learning keeps me sharp and fuels my drive to explore emerging tec
    </tr>
 </table>
 
+## 🛠️ My Setup
+
+- 💻 **CPU**: AMD Ryzen™ 5 7600X  
+- 🎮 **GPU**: NVIDIA RTX 3070  
+- 🧠 **RAM**: G.SKILL Trident 32GB DDR5  
+- ❄️ **Cooler**: Cooler Master ATMOS 360 AIO  
+- 🖱️ **Mouse**: Logitech G502  
+- ⌨️ **Keyboard**: Aula F75  
+- 💡 **Lightbar**: Baseus iWok  
+- 🖥️ **Monitor**: MSI G273Q  
+- 🪑 **Monitor Arm**: Flowlyf Wooden Arm  
+- 🔊 **Speaker**: JBL SB190
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
