@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I’m a data enginee with a passion for building complete, end-to-end data pipelines that are scalable, efficient, and production-ready.
+I’m a data engineer with a passion for building complete, end-to-end data pipelines that are scalable, efficient, and production-ready.
 
 - I enjoy bridging the gap between data engineering and DevOps
 - I work on automating workflows, implementing CI/CD practices, and ensuring reliable data delivery across environments
