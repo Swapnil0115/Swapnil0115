@@ -43,7 +43,7 @@ This hands-on learning keeps me sharp and fuels my drive to explore emerging tec
 - 💡 **Lightbar**: Baseus iWok  
 - 🖥️ **Monitor**: MSI G273QF  
 - 🪑 **Monitor Arm**: Flowlyf Wooden Arm  
-- 🔊 **Speaker**: JBL SB190
+- 🛠️ **Motherboard**: B650 Gaming plus Wifi
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
